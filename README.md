@@ -10,8 +10,9 @@
     
 <h2>📺 Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-  
+- [CompTIA CYSA ce +](https://www.linkedin.com/in/stevensteeleitsme/overlay/1713488023124/single-media-viewer/?profileId=ACoAABIwG4YBZOBZ-NKLSkNJ0DXhkqNxlEKIwYg)
+- [NIST Risk Management Framework for Systems and Organizations](https://www.linkedin.com/in/stevensteeleitsme/overlay/1726708320275/single-media-viewer/?profileId=ACoAABIwG4YBZOBZ-NKLSkNJ0DXhkqNxlEKIwYg)
+- [CompTIA Security ce +](https://www.linkedin.com/in/stevensteeleitsme/overlay/1739767738654/single-media-viewer/?profileId=ACoAABIwG4YBZOBZ-NKLSkNJ0DXhkqNxlEKIwYg)
 
 <h2>📺 Popular YouTube Videos</h2>
 
