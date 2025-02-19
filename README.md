@@ -4,7 +4,7 @@
 
 
   - [PCI DSS Gap Analysis](https://github.com/ssteel678/PCI-DSS-Gap-Analysis)
-  - [NIST ASSESSMENT](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [NCSR RISK LSU UNIVERISTY ASSESSMENT](https://github.com/joshmadakor1/Algorithms-Practice)
   - [SOC1 SOC2 RISK ASSESSMENT](https://github.com/joshmadakor1/Algorithms-Practice)
   - [ISO2700 DSS RISK ASSESSMENT](https://github.com/joshmadakor1/Algorithms-Practice)
     
