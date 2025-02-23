@@ -12,7 +12,7 @@
 
 - [CompTIA CYSA ce +](https://imgur.com/DLFC0iC.png)
 - [NIST Risk Management Framework for Systems and Organizations](https://imgur.com/E4mAM5x.png)
-- [CompTIA Security ce +](https://www.linkedin.com/in/stevensteeleitsme/overlay/1739767738654/single-media-viewer/?profileId=ACoAABIwG4YBZOBZ-NKLSkNJ0DXhkqNxlEKIwYg)
+- [CompTIA Security ce +](https://imgur.com/vrsH9yX.png)
 
 <h2>📺 Popular YouTube Videos</h2>
 
