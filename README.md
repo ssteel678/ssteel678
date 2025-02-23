@@ -10,7 +10,7 @@
     
 <h2>📺 Certifications</h2>
 
-- [CompTIA CYSA ce +](https://www.linkedin.com/in/stevensteeleitsme/overlay/1713488023124/single-media-viewer/?profileId=ACoAABIwG4YBZOBZ-NKLSkNJ0DXhkqNxlEKIwYg)
+- [CompTIA CYSA ce +](https://imgur.com/DLFC0iC.png)
 - [NIST Risk Management Framework for Systems and Organizations](https://www.linkedin.com/in/stevensteeleitsme/overlay/1726708320275/single-media-viewer/?profileId=ACoAABIwG4YBZOBZ-NKLSkNJ0DXhkqNxlEKIwYg)
 - [CompTIA Security ce +](https://www.linkedin.com/in/stevensteeleitsme/overlay/1739767738654/single-media-viewer/?profileId=ACoAABIwG4YBZOBZ-NKLSkNJ0DXhkqNxlEKIwYg)
 
