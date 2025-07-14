@@ -5,9 +5,7 @@
 
   - [Secure.AI](https://github.com/ssteel678/PCI-DSS-Gap-Analysis)
   - [NCSR RISK LSU UNIVERISTY ASSESSMENT](https://github.com/ssteel678/NCSR-RISK-LSU-UNIVERISTY-ASSESSMENT)
-  - [SOC1 SOC2 RISK ASSESSMENT](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [ISO2700 DSS RISK ASSESSMENT](https://github.com/joshmadakor1/Algorithms-Practice)
-    
+
 <h2>📺 Certifications</h2>
 
 - [CompTIA CYSA ce +](https://imgur.com/DLFC0iC.png)
