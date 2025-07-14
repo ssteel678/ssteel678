@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Risk Assessment Projects:</h2>
 
 
-  - [Secure.AI](https://github.com/ssteel678/PCI-DSS-Gap-Analysis)
+  - [Secure.AI](https://github.com/ssteel678/Secure.Ai)
   - [NCSR RISK LSU UNIVERISTY ASSESSMENT](https://github.com/ssteel678/NCSR-RISK-LSU-UNIVERISTY-ASSESSMENT)
 
 <h2>📺 Certifications</h2>
