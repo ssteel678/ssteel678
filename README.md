@@ -1,4 +1,4 @@
-<h1>Hi, I'm Steven! <br/><a href="https://github.com/ssteel678">GRC Specailist</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Senior IT Auditor</a>, <a href="https://www.youtube.com/c/joshmadakor">PCI DSS Specalist</a></h1>
+<h1>Hi, I'm Steven! <br/><a href="https://github.com/ssteel678">GRC Specailist</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Senior IT Auditor</a>, <a href="https://www.youtube.com/c/joshmadakor">PCI DSS Specailist</a></h1>
 
 <h2>👨‍💻 Cyber Risk Assessment Projects:</h2>
 
