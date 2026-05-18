@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Risk Assessment Projects:</h2>
 
 
-  - [Project River Scoping Overview](https://github.com/ssteel678/Secure.Ai)
+  - [Project River Scoping Overview](https://github.com/ssteel678/Project-River-Scoping)
   - [Secure.AI](https://github.com/ssteel678/Secure.Ai)
   - [NCSR RISK LSU UNIVERISTY ASSESSMENT](https://github.com/ssteel678/NCSR-RISK-LSU-UNIVERISTY-ASSESSMENT)
 
